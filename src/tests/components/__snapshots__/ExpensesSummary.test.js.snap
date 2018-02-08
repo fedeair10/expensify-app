@@ -3,7 +3,12 @@
 exports[`should render ExpensesSummary with empty message 1`] = `
 <div>
   <h1>
-    No expesens selected
+    Viewing 
+    0
+     
+    expenses
+     totalling 
+    $0.00
   </h1>
 </div>
 `;
